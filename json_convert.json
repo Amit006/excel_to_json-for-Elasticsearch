@@ -1,0 +1,63 @@
+{ "create": { "_index": "in", "_id": 1, "_type": "i" } } {
+    "From Time": "14:39:00",
+    "Reason": "PitchC step: 4.2\u00b0, 
+    SwHist: 466 ", "
+    S.No.
+    ": 1.0, "
+    Category ": "
+    Alarm ", "
+    WTG Model ": "
+    V100 ", 
+    "End Time": "14:40:00",
+    "Alarm Description": "CPS - Pitch C stepped:___._\u00b0 ",
+    "Location No": "JW13",
+    "Repeat": "JW13 3317",
+    "End Date": "2017-05-21 00:00:00",
+    "Duration (HH:MM)": "00:01:00",
+    "Alarm Code": 3317.0,
+    "From Date": "2017-05-21 00:00:00",
+    "Duration": "00:01:00",
+    "Area": "Vandhiya V100 Site",
+    "Customer": "Powerica",
+    "State ": "
+    GJ "} { "
+    create ": { "
+    _index ": " in ", "
+    _id ": 2, "
+    _type ": "
+    i " } } { "
+    From Time ": "
+    18: 56: 00 ", "
+    Reason ": "
+    PitchB step: 4.3\ u00b0,
+    SwHist: 506 ", "
+    S.No.
+    ": 1.0, "
+    Category ": "
+    Alarm ", "
+    WTG Model ": "
+    V100 ", "
+    End Time ": "
+    18: 57: 00 ", "
+    Alarm Description ": "
+    CPS - Pitch B stepped: ___._\ u00b0 ", "
+    Location No ": "
+    JW13 ", "
+    Repeat ": "
+    JW13 3316 ", "
+    End Date ": "
+    2017 - 05 - 08 00: 00: 00 ", "
+    Duration(HH: MM)
+    ": "
+    01: 01: 00 ", "
+    Alarm Code ": 3316.0, "
+    From Date ": "
+    2017 - 05 - 08 00: 00: 00 ", "
+    Duration ": "
+    00: 01: 00 ", "
+    Area ": "
+    Vandhiya V100 Site ", "
+    Customer ": "
+    Powerica ", "
+    State ": "
+    GJ " }
